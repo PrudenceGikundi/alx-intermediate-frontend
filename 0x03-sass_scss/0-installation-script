@@ -11,3 +11,6 @@ step 3:
 Installation Anywhere (Optional)
 Install SASS by using the following command if you have node installed:
 npm install sass -v 3.7.4
+
+alternatively:
+run the command : npm install -g sass
